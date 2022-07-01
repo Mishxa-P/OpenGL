@@ -6,3 +6,4 @@ bin/
 **.vcxproj
 **.vcxproj.filters
 **.vcxproj.user
+OpenGL/imgui.ini
